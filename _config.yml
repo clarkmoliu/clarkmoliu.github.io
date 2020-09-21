@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mo Liu"
 title_separator          : "-"
 name                     : &name "Mo Liu"
-description              : &description "PhDcc student"
+description              : &description "PhD student"
 url                      : https://clarkmoliu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "clarkmoliu/clarkmoliu.github.io"
@@ -74,13 +74,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Mo Liu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD student at UC Berkeley"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : ""
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -90,13 +90,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "clarkmoliu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/mo-liu-1b042415a/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
