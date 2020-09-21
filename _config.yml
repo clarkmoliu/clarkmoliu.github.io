@@ -1,12 +1,19 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
 
+# Site Settings
 locale                   : "en-US"
-title                    : "Shunan Jiang"
+title                    : "Mo Liu"
 title_separator          : "-"
-name                     : &name "Shunan Jiang"
-description              : &description "First-year IEOR PhD student at Berkeley IEOR"
-url                      : https://ShunanJiang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Mo Liu"
+description              : &description "PhD student"
+url                      : https://clarkmoliu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ShunanJiang.github.io"
+repository               : "clarkmoliu/clarkmoliu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -49,13 +56,6 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -73,13 +73,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shunan Jiang"
-  avatar           : "profile2.jpeg"
-  bio              : "IEOR PhD student at Berkeley"
-  location         : "Berkeley, California"
+  name             : "Mo Liu"
+  avatar           : "profile.png"
+  bio              : "PhD student at UC Berkeley"
+  location         : "Location"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=--tc3-4AAAAJ&hl=en"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : ""
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -89,20 +89,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ShunanJiang"
+  github           : "clarkmoliu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : "in/mo-liu-1b042415a/"
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "shunanjiang1"
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
